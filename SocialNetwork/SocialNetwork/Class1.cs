@@ -9,7 +9,7 @@ namespace SocialNetwork
     public class Class1
     {
         int test=3;
-        
+        int te;
         
     }
 }
