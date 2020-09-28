@@ -8,6 +8,8 @@ namespace SocialNetwork
 {
     public class Class1
     {
-        int test;
+        int test=3;
+        
+        
     }
 }
